@@ -1,0 +1,17 @@
+{
+    "name": "kepson/simplest-openia-sdk",
+    "description": "simplest package to use openia",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Kepson\\SimplestOpeniaSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kepsondiaz",
+            "email": "kherabadiaby328@gmail.com"
+        }
+    ],
+    "require": {}
+}
