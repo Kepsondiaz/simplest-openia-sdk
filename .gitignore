@@ -1,4 +1,4 @@
 .history 
-/vendor/
 composer.lock
 .idea
+/vendor/
