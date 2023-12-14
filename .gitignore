@@ -1,3 +1,6 @@
-.history
+.history 
 composer.lock
-vendor
+.idea
+/vendor/
+/vendor/composer
+/vendor/autoload.php
