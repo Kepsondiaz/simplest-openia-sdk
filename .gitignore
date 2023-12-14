@@ -1,1 +1,4 @@
 .history 
+/vendor/
+composer.lock
+.idea
