@@ -6,8 +6,9 @@ namespace Kepson\SimplestOpeniaSdk;
 
 class  OpenIaClient
 {
-    public function __construct()
+    private $apikey ;
+    public function __construct($apikey)
     {
-        // do something
+        $this->apikey = $apikey;
     }
 }
