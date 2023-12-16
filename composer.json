@@ -13,6 +13,7 @@
             "email": "kherabadiaby328@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "guzzlehttp/guzzle": "^7.8",
         "php-http/discovery": "^1.19",
