@@ -15,7 +15,7 @@ class Chat
     }
 
 
-    public function completions(string $content, $role = "user", $model, int $frequency_penalty = 0, object $response_format)
+    public function defaultCompletions(string $content, $role = "user", $model, int $frequency_penalty = 0, object $response_format)
     {
         try {
 
