@@ -85,9 +85,4 @@ class Chat
          
     }
 
-    public function streamingCompletions()
-    {
-         // do something cool 
-    }
-
 }
